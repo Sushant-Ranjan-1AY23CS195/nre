@@ -1,9 +1,14 @@
 sushant ranjan
 new branch user1
 line 3
+<<<<<<< HEAD
 
 
 
 
 line 6
 line 7
+=======
+line 4
+line 5 
+>>>>>>> parent of e1df6f2 (updates)
